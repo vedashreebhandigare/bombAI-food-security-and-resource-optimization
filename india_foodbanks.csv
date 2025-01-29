@@ -1,0 +1,105 @@
+ID,Name,Contact,Location,Latitude,Longitude,Food Types Accepted,City
+1,Roti Bank Mumbai,+91 8655550063,"Chinchpokli West, Mumbai",18.9784,72.832,Packaged Food & Fresh Cooked Meals,Mumbai
+2,Feeding India - Mumbai Chapter,+91 9876543210,"Andheri East, Mumbai",19.1144,72.8679,Non-perishable Items & Fresh Produce,Mumbai
+3,Robin Hood Army Mumbai,contact@robinhoodarmy.com,"Bandra West, Mumbai",19.0544,72.8402,All Types of Food & Beverages,Mumbai
+4,Mumbai Food Project,+91 9922334455,"Worli, Mumbai",19.0159,72.817,Grains & Packaged Foods,Mumbai
+5,Food Matters India,info@foodmatters.in,"Colaba, Mumbai",18.9067,72.8147,Fresh & Packaged Food,Mumbai
+6,Give India Food Bank,+91 9876543211,"Dadar West, Mumbai",19.0186,72.8424,Non-perishable Food Items,Mumbai
+7,Hands That Feed,handsthatfeed@email.com,"Ghatkopar, Mumbai",19.086,72.9083,Fresh Produce & Dry Rations,Mumbai
+8,Food Warriors Mumbai,+91 9933221100,"Malad West, Mumbai",19.1875,72.8425,All Food Types,Mumbai
+9,Share My Plate,contact@shareplate.org,"Goregaon, Mumbai",19.1551,72.8497,Packaged & Fresh Food,Mumbai
+10,Mumbai Meals,meals@mumbai.org,"Powai, Mumbai",19.12,72.9056,Cooked Meals & Dry Rations,Mumbai
+11,Hunger Heroes,+91 9876543212,"Chembur, Mumbai",19.0626,72.8966,All Types of Food,Mumbai
+12,Feed The Need,needhelp@feed.org,"Kandivali, Mumbai",19.2057,72.8526,Non-perishable Items,Mumbai
+13,No Waste Mumbai,nowaste@email.com,"Borivali, Mumbai",19.2288,72.8541,Fresh & Packaged Food,Mumbai
+14,Food Army,foodarmy@help.com,"Kurla, Mumbai",19.0658,72.8795,All Food Types,Mumbai
+15,Hope Foundation Bank,+91 9876543213,"Santacruz, Mumbai",19.0817,72.8415,Dry Rations & Fresh Food,Mumbai
+16,Helping Hands Mumbai,help@hands.org,"Vikhroli, Mumbai",19.1053,72.9344,Non-perishable & Fresh Food,Mumbai
+17,Mumbai Food Network,network@food.org,"Juhu, Mumbai",19.1,72.8267,All Types of Food,Mumbai
+18,Care & Share,care@share.com,"Sion, Mumbai",19.0428,72.8612,Packaged Food & Fresh Produce,Mumbai
+19,Food For Life Mumbai,life@food.org,"Mulund, Mumbai",19.1726,72.9568,Fresh & Packaged Food,Mumbai
+20,Mumbai Food Bank,bank@mumbai.org,"Parel, Mumbai",19.0074,72.837,All Food Types,Mumbai
+21,Annakshetra Foundation,+91 9876543214,"Lower Parel, Mumbai",19.0036,72.8306,Dry Rations & Fresh Food,Mumbai
+22,Give & Grow,give@grow.org,"Khar, Mumbai",19.0669,72.838,Non-perishable Items,Mumbai
+23,Mumbai Foodie Support,support@foodie.org,"Mahim, Mumbai",19.0434,72.8402,All Types of Food,Mumbai
+24,Food Connect Mumbai,connect@food.org,"Bhandup, Mumbai",19.1478,72.9355,Fresh & Packaged Food,Mumbai
+25,Seva Kitchen,seva@kitchen.org,"Wadala, Mumbai",19.0176,72.8595,Cooked Meals & Dry Rations,Mumbai
+26,Mumbai Food Relief,relief@food.org,"Matunga, Mumbai",19.0269,72.8553,All Food Types,Mumbai
+27,Food Bridge Mumbai,bridge@food.org,"Grant Road, Mumbai",18.965,72.813,Non-perishable & Fresh Food,Mumbai
+28,Sahara Food Bank,sahara@food.org,"Dongri, Mumbai",18.9634,72.8354,Fresh Produce & Dry Rations,Mumbai
+29,Mumbai Feeds,feeds@mumbai.org,"Mira Road, Mumbai",19.285,72.8544,All Types of Food,Mumbai
+30,Food Support Network,support@network.org,"Thane West, Mumbai",19.2183,72.9781,Packaged & Fresh Food,Mumbai
+31,Annapurna Bank,anna@purna.org,"Kalyan, Mumbai",19.2437,73.1355,Fresh & Packaged Food,Mumbai
+32,Mumbai Food Drive,drive@food.org,"Vashi, Mumbai",19.077,72.998,All Food Types,Mumbai
+33,Food Aid Mumbai,aid@mumbai.org,"Airoli, Mumbai",19.1552,72.9967,Non-perishable Items,Mumbai
+34,Helping Hearts Mumbai,hearts@help.org,"Belapur, Mumbai",19.018,73.0444,Fresh Produce & Dry Rations,Mumbai
+35,Share Food Mumbai,share@food.org,"Kharghar, Mumbai",19.033,73.0699,All Types of Food,Mumbai
+36,Mumbai Food Mission,mission@food.org,"Panvel, Mumbai",18.9894,73.1175,Packaged & Fresh Food,Mumbai
+37,Food Care Mumbai,care@food.org,"Sanpada, Mumbai",19.0656,73.0169,Fresh & Cooked Food,Mumbai
+38,Mumbai Hunger Project,project@hunger.org,"Nerul, Mumbai",19.033,73.0193,All Food Types,Mumbai
+39,Food Bank Network,network@bank.org,"Byculla, Mumbai",18.978,72.832,Non-perishable Items,Mumbai
+40,Mumbai Food Share,share@mumbai.org,"Govandi, Mumbai",19.048,72.918,Fresh Produce & Dry Rations,Mumbai
+41,Food Relief Mumbai,relief@mumbai.org,"Mankhurd, Mumbai",19.047,72.925,All Types of Food,Mumbai
+42,Mumbai Food Support,support@mumbai.org,"Worli Sea Face, Mumbai",19.0169,72.815,Packaged & Fresh Food,Mumbai
+43,Food Aid Network,aid@network.org,"Prabhadevi, Mumbai",19.0222,72.8306,Fresh & Cooked Food,Mumbai
+44,Mumbai Food Care,care@mumbai.org,"Sewri, Mumbai",19.001,72.854,All Food Types,Mumbai
+45,Food Help Mumbai,help@food.org,"Lalbaug, Mumbai",19.009,72.833,Non-perishable Items,Mumbai
+46,Mumbai Food Bridge,bridge@mumbai.org,"Chinchpokli East, Mumbai",18.9784,72.832,Fresh Produce & Dry Rations,Mumbai
+47,Food Connect India,connect@india.org,"Girgaon, Mumbai",18.9543,72.8125,All Types of Food,Mumbai
+48,Mumbai Food Relief,relief@food.org,"Charni Road, Mumbai",18.951,72.819,Packaged & Fresh Food,Mumbai
+49,Food Hope Mumbai,hope@mumbai.org,"Marine Lines, Mumbai",18.948,72.823,Fresh & Cooked Food,Mumbai
+50,Bangalore Food Bank,bangalore@food.org,"Koramangala, Bangalore",12.9352,77.6245,All Types of Food,Bangalore
+51,Delhi Food Support,delhi@support.org,"Connaught Place, Delhi",28.6315,77.2167,Non-perishable Items,Delhi
+52,Chennai Food Network,chennai@network.org,"T Nagar, Chennai",13.0406,80.2337,Fresh Produce & Dry Rations,Chennai
+53,Kolkata Food Bank,kolkata@food.org,"Park Street, Kolkata",22.5535,88.3507,All Food Types,Kolkata
+54,Hyderabad Food Relief,hyderabad@relief.org,"Banjara Hills, Hyderabad",17.4165,78.4483,Packaged & Fresh Food,Hyderabad
+55,Pune Food Bank,pune@food.org,"Koregaon Park, Pune",18.5362,73.8936,Fresh & Cooked Food,Pune
+56,Ahmedabad Food Support,ahmedabad@support.org,"Navrangpura, Ahmedabad",23.037,72.5626,All Food Types,Ahmedabad
+57,Jaipur Food Network,jaipur@network.org,"MI Road, Jaipur",26.9157,75.813,Non-perishable Items,Jaipur
+58,Lucknow Food Bank,lucknow@food.org,"Hazratganj, Lucknow",26.85,80.95,Fresh Produce & Dry Rations,Lucknow
+59,Chandigarh Food Relief,chandigarh@relief.org,"Sector 17, Chandigarh",30.7353,76.7911,All Food Types,Chandigarh
+60,Food Bank Bhopal,bhopal@food.org,"MP Nagar, Bhopal",23.2336,77.4326,Packaged & Fresh Food,Bhopal
+61,Indore Food Support,indore@support.org,"Vijay Nagar, Indore",22.7533,75.8937,Fresh & Cooked Food,Indore
+62,Nagpur Food Network,nagpur@network.org,"Dharampeth, Nagpur",21.1458,79.0882,All Food Types,Nagpur
+63,Coimbatore Food Bank,coimbatore@food.org,"RS Puram, Coimbatore",11.0056,76.9661,Non-perishable Items,Coimbatore
+64,Kochi Food Relief,kochi@relief.org,"MG Road, Kochi",9.9816,76.2825,Fresh Produce & Dry Rations,Kochi
+65,Food Bank Guwahati,guwahati@food.org,"GS Road, Guwahati",26.1445,91.7362,All Food Types,Guwahati
+66,Bhubaneswar Food Support,bhubaneswar@support.org,"Sahid Nagar, Bhubaneswar",20.2961,85.8245,Packaged & Fresh Food,Bhubaneswar
+67,Dehradun Food Network,dehradun@network.org,"Rajpur Road, Dehradun",30.3256,78.0437,Fresh & Cooked Food,Dehradun
+68,Ranchi Food Bank,ranchi@food.org,"Main Road, Ranchi",23.3441,85.3096,All Food Types,Ranchi
+69,Food Relief Patna,patna@relief.org,"Fraser Road, Patna",25.6093,85.1235,Non-perishable Items,Patna
+70,Raipur Food Support,raipur@support.org,"GE Road, Raipur",21.2514,81.6296,Fresh Produce & Dry Rations,Raipur
+71,Thiruvananthapuram Bank,tvm@food.org,"MG Road, Thiruvananthapuram",8.4871,76.9523,All Food Types,Thiruvananthapuram
+72,Bangalore Food Network,bangalore2@network.org,"Indiranagar, Bangalore",12.9716,77.6411,Packaged & Fresh Food,Bangalore
+73,Delhi Food Bank,delhi2@food.org,"Hauz Khas, Delhi",28.5494,77.1996,Fresh & Cooked Food,Delhi
+74,Chennai Food Relief,chennai2@relief.org,"Anna Nagar, Chennai",13.085,80.2101,All Food Types,Chennai
+75,Kolkata Food Support,kolkata2@support.org,"Salt Lake, Kolkata",22.5854,88.418,Non-perishable Items,Kolkata
+76,Hyderabad Food Network,hyderabad2@network.org,"Jubilee Hills, Hyderabad",17.4239,78.4129,Fresh Produce & Dry Rations,Hyderabad
+77,Pune Food Relief,pune2@relief.org,"Camp Area, Pune",18.5167,73.8772,All Food Types,Pune
+78,Food Bank Surat,surat@food.org,"Adajan, Surat",21.2031,72.8311,Packaged & Fresh Food,Surat
+79,Vadodara Food Support,vadodara@support.org,"Alkapuri, Vadodara",22.3072,73.1812,Fresh & Cooked Food,Vadodara
+80,Nashik Food Network,nashik@network.org,"College Road, Nashik",20.0069,73.7707,All Food Types,Nashik
+81,Amritsar Food Bank,amritsar@food.org,"Lawrence Road, Amritsar",31.6338,74.8656,Non-perishable Items,Amritsar
+82,Mysore Food Relief,mysore@relief.org,"Saraswathipuram, Mysore",12.303,76.6442,Fresh Produce & Dry Rations,Mysore
+83,Vizag Food Support,vizag@support.org,"Beach Road, Visakhapatnam",17.7134,83.329,All Food Types,Visakhapatnam
+84,Mangalore Food Network,mangalore@network.org,"City Centre, Mangalore",12.872,74.843,Packaged & Fresh Food,Mangalore
+85,Udaipur Food Bank,udaipur@food.org,"City Palace Road, Udaipur",24.5765,73.682,Fresh & Cooked Food,Udaipur
+86,Shimla Food Relief,shimla@relief.org,"Mall Road, Shimla",31.1048,77.1734,All Food Types,Shimla
+87,Bangalore Food Support,bangalore3@support.org,"Whitefield, Bangalore",12.9698,77.7499,Non-perishable Items,Bangalore
+88,Delhi Food Network,delhi3@network.org,"Rohini, Delhi",28.7361,77.1131,Fresh Produce & Dry Rations,Delhi
+89,Chennai Food Bank,chennai3@food.org,"Velachery, Chennai",12.9792,80.2189,All Food Types,Chennai
+90,Kolkata Food Relief,kolkata3@relief.org,"New Town, Kolkata",22.5958,88.472,Packaged & Fresh Food,Kolkata
+91,Hyderabad Food Support,hyderabad3@support.org,"Gachibowli, Hyderabad",17.4401,78.3489,Fresh & Cooked Food,Hyderabad
+92,Pune Food Network,pune3@network.org,"Kothrud, Pune",18.5089,73.8077,All Food Types,Pune
+93,Ahmedabad Food Bank,ahmedabad2@food.org,"Satellite, Ahmedabad",23.0307,72.5178,Non-perishable Items,Ahmedabad
+94,Jaipur Food Relief,jaipur2@relief.org,"Malviya Nagar, Jaipur",26.8533,75.815,Fresh Produce & Dry Rations,Jaipur
+95,Lucknow Food Support,lucknow2@support.org,"Gomti Nagar, Lucknow",26.86,80.975,All Food Types,Lucknow
+96,Chandigarh Food Network,chandigarh2@network.org,"Sector 35, Chandigarh",30.7224,76.7665,Packaged & Fresh Food,Chandigarh
+97,Food Bank Goa,goa@food.org,"Panjim, Goa",15.4957,73.8264,Fresh & Cooked Food,Goa
+98,Pondicherry Food Support,pondy@support.org,"White Town, Pondicherry",11.9338,79.8333,All Food Types,Pondicherry
+99,Gangtok Food Network,gangtok@network.org,"MG Marg, Gangtok",27.3274,88.6121,Non-perishable Items,Gangtok
+100,Shillong Food Bank,shillong@food.org,"Police Bazar, Shillong",25.572,91.8807,Fresh Produce & Dry Rations,Shillong
+101,Imphal Food Relief,imphal@relief.org,"Thangal Bazar, Imphal",24.817,93.937,All Food Types,Imphal
+102,Agartala Food Support,agartala@support.org,"Central Road, Agartala",23.8315,91.2868,Packaged & Fresh Food,Agartala
+103,Port Blair Food Network,portblair@network.org,"Aberdeen Bazaar, Port Blair",11.6724,92.735,Fresh & Cooked Food,Port Blair
+104,Itanagar Food Bank,itanagar@food.org,"Bank Tinali, Itanagar",27.1024,93.6927,All Food Types,Itanagar

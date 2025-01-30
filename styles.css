@@ -1,0 +1,96 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Body Styling */
+body {
+    background: linear-gradient(to bottom, #63ed9a, #c3cfe2);
+    text-align: center;
+    padding: 20px;
+}
+
+/* Header Styling */
+header {
+    background: #6cec22;
+    color: rgb(11, 11, 11);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+
+header p {
+    font-size: 1.2rem;
+    opacity: 0.9;
+}
+
+/* Section Styling */
+.project {
+    width: 80%;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    background: rgb(237, 165, 165);
+    transition: transform 0.3s ease-in-out;
+}
+
+.project:hover {
+    transform: scale(1.05);
+}
+
+/* Unique Backgrounds */
+#plant-detector {
+    background: url('bomb_ai/static/plant_bg.jpg') no-repeat center center/cover;
+    color: white;
+}
+
+#ngo-locator {
+    background: url('NGO_Lite/static/ngo_bg.jpg') no-repeat center center/cover;
+    color: white;
+}
+
+/* Content Styling */
+.content h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.content p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+/* Button Styling */
+.btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #6cec22;
+    color: rgb(8, 8, 8);
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background: #e68900;
+}
+
+/* Footer Styling */
+footer {
+    margin-top: 30px;
+    font-size: 0.9rem;
+    color: #555;
+}
